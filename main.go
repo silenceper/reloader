@@ -14,7 +14,7 @@ import (
 	"time"
 
 	"github.com/ActiveState/tail"
-	"github.com/romanoff/fsmonitor"
+	"github.com/silenceper/fsmonitor"
 	"gopkg.in/yaml.v1"
 )
 
